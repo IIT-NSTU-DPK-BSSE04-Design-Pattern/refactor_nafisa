@@ -23,4 +23,9 @@
 * **Students ONLY CAN USE internet for GITHUB access**
 ### Don's
 * Students _CAN NOT USE CHAT-GPT_ and related services
-* **Students CAN NOT USE internet for other than GITHUB**  
+* **Students CAN NOT USE internet for other than GITHUB**
+
+# Exam Length
+* Lab Exam Start at 09:00 AM
+* Lab Exam End at 12:00 PM
+* Viva from 12:00 PM - 02:00 PM
