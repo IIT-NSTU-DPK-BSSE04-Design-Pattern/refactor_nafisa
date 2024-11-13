@@ -1,4 +1,4 @@
-# SE3110LabFinal
+# SE3110LabFinal Instructions
 
 # Before Exam
 * Each student will fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSdslPXrA2n6yRZg2MdKNGJgJXFDG8WDcTGSUmYmImm2rhcskA/viewform) in order to get an invitation to join [Design Pattern Lab](https://github.com/IIT-NSTU-DPK-BSSE04-Design-Pattern)
