@@ -167,7 +167,7 @@ public class Command {
 
             } else {
 
-                System.out.println("The program cannot find '" + name + "'");
+                System.out.println(new StringBuilder().append("The program cannot find '").append(name).append("'").toString());
             }
         } catch (Exception e) {
             System.out.println("Invalid input");
